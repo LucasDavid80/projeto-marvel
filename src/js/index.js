@@ -33,4 +33,4 @@ personagens.forEach((personagem) => {
 
         nomeJogador1.innerHTML = nomeSelecionado;
     }); 
-})
+});
